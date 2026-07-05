@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #778873;
+    font-family: "Saira", sans-serif;
+    color: #FDF6ED;
+    text-align: center;
+}
+
+#imgHome {
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+
+.aLink{
+    text-decoration: none;
+    background-color: #DCCFC0 ;
+    border-radius: 10px;
+    color: #7a8e74;
+    padding: 5px;
+    margin: 55px;
+}
