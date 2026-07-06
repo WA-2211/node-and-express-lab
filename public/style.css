@@ -11,6 +11,7 @@ body {
     width: 400px;
     height: 300px;
     border-radius: 50px;
+    padding: 10px;
 }
 
 
@@ -20,5 +21,8 @@ body {
     border-radius: 10px;
     color: #7a8e74;
     padding: 5px;
-    margin: 55px;
+}
+
+.list{
+    list-style: none;
 }
